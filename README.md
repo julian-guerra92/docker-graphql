@@ -64,3 +64,22 @@ Nest is [MIT licensed](LICENSE).
 ## GitHub Actions
 
 Se incluye configuración para el despliegue automático a Docker y sistema de versionamiento de la aplicación mediante github action. 
+
+## Manejo de Versiones
+
+utilizar los siguientes comando en el momento de realizar commits para hacer cambio del versionamiento:
+
+1. Cambios mayores de la app:
+```
+git commit -m "major: este es un ejemplo"
+```
+
+2. Cambios menores de la app:
+```
+git commit -m "feat: este es un ejemplo"
+```
+
+3. Cambios bugs fixed o parches de la app:
+```
+git commit -m "patch: este es un ejemplo"
+```
