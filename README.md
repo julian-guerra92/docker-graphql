@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Proyecto creado como práctica para el despliegue atumático de imágenes de docker y manejo de versiones mediante Github Actions 
+
 ## Installation
 
 ```bash
